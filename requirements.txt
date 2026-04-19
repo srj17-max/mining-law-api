@@ -2,10 +2,11 @@ fastapi
 uvicorn
 langchain-community
 langchain-text-splitters
-langchain-huggingface
 langchain-groq
 faiss-cpu
 pdfplumber
+langchain-huggingface
 sentence-transformers
 numpy==1.26.4
 python-multipart
+torch==2.2.2 --index-url https://download.pytorch.org/whl/cpu
